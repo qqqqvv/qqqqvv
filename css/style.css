@@ -23,14 +23,17 @@ a:visited {
 
 .row1 {
 	min-width: 1366px;
+	height: 715px;
 }
 
 .row2 {
 	min-width: 1366px;
+	height: 854px;
 }
 
 .row3 {
 	min-width: 1366px;
+	height: 715px;
 }
 
 .block_1 {
@@ -372,4 +375,10 @@ textarea {
 
 .share {
 	padding-left: 55px;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
 }
