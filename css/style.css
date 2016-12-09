@@ -302,6 +302,7 @@ input[name='name'] {
 	height: 60px;
 	text-align: left;
 	padding-left: 20px;
+	outline: none;
 
 }
 
@@ -311,6 +312,7 @@ input[name='email'] {
 	text-align: left;
 	padding-left: 20px;
 	margin-left: 10px;
+	outline: none;
 }
 
 
