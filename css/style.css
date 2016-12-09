@@ -17,6 +17,10 @@ a:visited {
 	color: black;
 }
 
+.block_5 a:link {
+	color: white;	
+}
+
 .row1 {
 	min-width: 1366px;
 }
